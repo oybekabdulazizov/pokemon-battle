@@ -1,0 +1,10 @@
+.Pokegame {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.Pokegame-vs {
+    width: 3rem;
+    font-size: 1.5rem;
+}
