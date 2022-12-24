@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import Pokedex from './Pokedex';
-
 import pokemons from './pokemons';
 
 class Pokegame extends Component {
